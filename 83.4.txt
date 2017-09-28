@@ -1,0 +1,15 @@
+
+auto init=std::initializer_list<int>({131,673,234,103,18});
+std::copy(init.begin(),init.end(),numbers[0]);
+
+init=std::initializer_list<int>({201,96,342,965,150});
+std::copy(init.begin(),init.end(),numbers[1]);
+
+init=std::initializer_list<int>({630,803,746,422,111});
+std::copy(init.begin(),init.end(),numbers[2]);
+
+init=std::initializer_list<int>({537,699,497,121,956});
+std::copy(init.begin(),init.end(),numbers[3]);
+
+init=std::initializer_list<int>({805,732,524,37,331});
+std::copy(init.begin(),init.end(),numbers[4]);

@@ -1,0 +1,1322 @@
+Problem 1: Multiples of 3 and 5
+   233168
+
+Problem 2: Even Fibonacci numbers
+   4613732
+
+Problem 3: Largest prime factor
+   6857
+
+Problem 4: Largest palindrome product
+   906609
+
+Problem 5: Smallest multiple
+   232792560
+
+Problem 6: Sum square difference
+   25164150
+
+Problem 7: 10001st prime
+   104743
+
+Problem 8: Largest product in a series
+   40824
+
+Problem 9: Special Pythagorean triplet
+   31875000
+
+Problem 10: Summation of primes
+   142913828922
+
+Problem 11: Largest product in a grid
+   70600674
+
+Problem 12: Highly divisible triangular number
+   76576500
+
+Problem 13: Large sum
+   5537376230
+
+Problem 14: Longest Collatz sequence
+   837799
+
+Problem 15: Lattice paths
+   137846528820
+
+Problem 16: Power digit sum
+   1366
+
+Problem 17: Number letter counts
+   21124
+
+Problem 18: Maximum path sum I
+   1074
+
+Problem 19: Counting Sundays
+   171
+
+Problem 20: Factorial digit sum
+   648
+
+Problem 21: Amicable numbers
+   31626
+
+Problem 22: Names scores
+   871198282
+
+Problem 23: Non-abundant sums
+   4179871
+
+Problem 24: Lexicographic permutations
+   2783915460
+
+Problem 25: 1000-digit Fibonacci number
+   4782
+
+Problem 26: Reciprocal cycles
+   983
+
+Problem 27: Quadratic primes
+   -59231
+
+Problem 28: Number spiral diagonals
+   669171001
+
+Problem 29: Distinct powers
+   9183
+
+Problem 30: Digit fifth powers
+   443839
+
+Problem 31: Coin sums
+   73682
+
+Problem 32: Pandigital products
+   45228
+
+Problem 33: Digit canceling fractions
+   100
+
+Problem 34: Digit factorials
+   40730
+
+Problem 35: Circular primes
+   55
+
+Problem 36: Double-base palindromes
+   872187
+
+Problem 37: Truncatable primes
+   748317
+
+Problem 38: Pandigital multiples
+   932718654
+
+Problem 39: Integer right triangles
+   840
+
+Problem 40: Champernowne's constant
+   210
+
+Problem 41: Pandigital prime
+   7652413
+
+Problem 42: Coded triangle numbers
+   162
+
+Problem 43: Sub-string divisibility
+   16695334890
+
+Problem 44: Pentagon numbers
+   5482660
+
+Problem 45: Triangular, pentagonal, and hexagonal
+   1533776805
+
+Problem 46: Goldbach's other conjecture
+   5777
+
+Problem 47: Distinct primes factors
+   134043
+
+Problem 48: Self powers
+   9110846700
+
+Problem 49: Prime permutations
+   296962999629
+
+Problem 50: Consecutive prime sum
+   997651
+
+Problem 51: Prime digit replacements
+   121313
+
+Problem 52: Permuted multiples
+   142857
+
+Problem 53: Combinatoric selections
+   4075
+
+Problem 54: Poker hands
+   376
+
+Problem 55: Lychrel numbers
+   249
+
+Problem 56: Powerful digit sum
+   972
+
+Problem 57: Square root convergents
+   153
+
+Problem 58: Spiral primes
+   26241
+
+Problem 59: XOR decryption
+   107359
+
+Problem 60: Prime pair sets
+   26033
+
+Problem 61: Cyclical figurate numbers
+   28684
+
+Problem 62: Cubic permutations
+   127035954683
+
+Problem 63: Powerful digit counts
+   49
+
+Problem 64: Odd period square roots
+   1322
+
+Problem 65: Convergents of e
+   272
+
+Problem 66: Diophantine equation
+   661
+
+Problem 67: Maximum path sum II
+   7273
+
+Problem 68: Magic 5-gon ring
+   6531031914842725
+
+Problem 69: Totient maximum
+   510510
+
+Problem 70: Totient permutation
+   8319823
+
+Problem 71: Ordered fractions
+   428570
+
+Problem 72: Counting fractions
+   303963552391
+
+Problem 73: Counting fractions in a range
+   7295372
+
+Problem 74: Digit factorial chains
+   402
+
+Problem 75: Singular integer right triangles
+   161667
+
+Problem 76: Counting summations
+   190569291
+
+Problem 77: Prime summations
+   71
+
+Problem 78: Coin partitions
+   55374
+
+Problem 79: Passcode derivation
+   73162890
+
+Problem 80: Square root digital expansion
+   40886
+
+Problem 81: Path sum: two ways
+   427337
+
+Problem 82: Path sum: three ways
+   260324
+
+Problem 83: Path sum: four ways
+   425185
+
+Problem 84: Monopoly odds
+   101524
+
+Problem 85: Counting rectangles
+   2772
+
+Problem 86: Cuboid route
+   1818
+
+Problem 87: Prime power triples
+   1097343
+
+Problem 88: Product-sum numbers
+   7587457
+
+Problem 89: Roman numerals
+   743
+
+Problem 90: Cube digit pairs
+   1217
+
+Problem 91: Right triangles with integer coordinates
+   14234
+
+Problem 92: Square digit chains
+   8581146
+
+Problem 93: Arithmetic expressions
+   1258
+
+Problem 94: Almost equilateral triangles
+   518408346
+
+Problem 95: Amicable chains
+   14316
+
+Problem 96: Su Doku
+   24702
+
+Problem 97: Large non-Mersenne prime
+   8739992577
+
+Problem 98: Anagramic squares
+   18769
+
+Problem 99: Largest exponential
+   709
+
+Problem 100: Arranged probability
+   756872327473
+
+Problem 101: Optimum polynomial
+   37076114526
+
+Problem 102: Triangle containment
+   228
+
+Problem 103: Special subset sums: optimum
+   20313839404245
+
+Problem 104: Pandigital Fibonacci ends
+   329468
+
+Problem 105: Special subset sums: testing
+   73702
+
+Problem 106: Special subset sums: meta-testing
+   21384
+
+Problem 107: Minimal network
+   259679
+
+Problem 108: Diophantine reciprocals I
+   180180
+
+Problem 109: Darts
+   38182
+
+Problem 110: Diophantine reciprocals II
+   9350130049860600
+
+Problem 111: Primes with runs
+   612407567715
+
+Problem 112: Bouncy numbers
+   1587000
+
+Problem 113: Non-bouncy numbers
+   51161058134250
+
+Problem 114: Counting block combinations I
+   16475640049
+
+Problem 115: Counting block combinations II
+   168
+
+Problem 116: Red, green or blue tiles
+   20492570929
+
+Problem 117: Red, green, and blue tiles
+   100808458960497
+
+Problem 118: Pandigital prime sets
+   44680
+
+Problem 119: Digit power sum
+   248155780267521
+
+Problem 120: Square remainders
+   333082500
+
+Problem 121: Disc game prize fund
+   2269
+
+Problem 122: Efficient exponentiation
+   1582
+
+Problem 123: Prime square remainders
+   21035
+
+Problem 124: Ordered radicals
+   21417
+
+Problem 125: Palindromic sums
+   2906969179
+
+Problem 126: Cuboid layers
+   18522
+
+Problem 127: abc-hits
+   18407904
+
+Problem 128: Hexagonal tile differences
+   14516824220
+
+Problem 129: Repunit divisibility
+   1000023
+
+Problem 130: Composites with prime repunit property
+   149253
+
+Problem 131: Prime cube partnership
+   173
+
+Problem 132: Large repunit factors
+   843296
+
+Problem 133: Repunit nonfactors
+   453647705
+
+Problem 134: Prime pair connection
+   18613426663617118
+
+Problem 135: Same differences
+   4989
+
+Problem 136: Singleton difference
+   2544559
+
+Problem 137: Fibonacci golden nuggets
+   1120149658760
+
+Problem 138: Special isosceles triangles
+   1118049290473932
+
+Problem 139: Pythagorean tiles
+   10057761
+
+Problem 140: Modified Fibonacci golden nuggets
+   5673835352990
+
+Problem 141: Investigating progressive numbers, 
+   878454337159
+
+Problem 142: Perfect Square Collection
+   1006193
+
+Problem 143: Investigating the Torricelli point of a triangle
+   30758397
+
+Problem 144: Investigating multiple reflections of a laser beam. 
+   354
+
+Problem 145: How many reversible numbers are there below one-billion?
+   608720
+
+Problem 146: Investigating a Prime Pattern 
+   676333270
+
+Problem 147: Rectangles in cross-hatched grids
+   846910284
+
+Problem 148: Exploring Pascal's triangle.
+   2129970655314432
+
+Problem 149: Searching for a maximum-sum subsequence.
+   52852124
+
+Problem 150: Searching a triangular array for a sub-triangle having minimum-sum.
+   -271248680
+
+Problem 151: Paper sheets of standard sizes: an expected-value problem.
+   0.464399
+
+Problem 152: Writing 1/2 as a sum of inverse squares
+   301
+
+Problem 153: Investigating Gaussian Integers
+   17971254122360635
+
+Problem 154: Exploring Pascal's pyramid.
+   479742450
+
+Problem 155: Counting Capacitor Circuits.
+   3857447
+
+Problem 156: Counting Digits
+   21295121502550
+
+Problem 157: Solving the diophantine equation 
+   53490
+
+Problem 158: Exploring strings for which only one character comes lexicographically after its neighbour to the left.
+   409511334375
+
+Problem 159: Digital root sums of factorisations.
+
+   14489159
+
+Problem 160: Factorial trailing digits
+   16576
+
+Problem 161: Triominoes
+   20574308184277971
+
+Problem 162: Hexadecimal numbers
+   3D58725572C62302
+
+Problem 163: Cross-hatched triangles
+   343047
+
+Problem 164: Numbers for which no three consecutive digits have a sum greater than a given value.
+   378158756814587
+
+Problem 165: Intersections
+   2868868
+
+Problem 166: Criss Cross
+   7130034
+
+Problem 167: Investigating Ulam sequences
+   3916160068885
+
+Problem 168: Number Rotations
+   59206
+
+Problem 169: Exploring the number of different ways a number can be expressed as a sum of powers of 2.
+
+   178653872807
+
+Problem 170: Find the largest 0 to 9 pandigital that can be formed by concatenating products.
+   9857164023
+
+Problem 171: Finding numbers for which the sum of the squares of the digits is a square.
+   142989277
+
+Problem 172: Investigating numbers with few repeated digits.
+   227485267000992000
+
+Problem 173: Using up to one million tiles how many different "hollow" square laminae can be formed?
+   1572729
+
+Problem 174: Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements.
+   209566
+
+Problem 175: Fractions involving the number of different ways a number can be expressed as a sum of powers of 2. 
+   1,13717420,8
+
+Problem 176: Right-angled triangles that share a cathetus.
+   96818198400000
+
+Problem 177: Integer angled Quadrilaterals.
+   129325
+
+Problem 178: Step Numbers
+   126461847755
+
+Problem 179: Consecutive positive divisors
+
+   986262
+
+Problem 180: Rational zeros of a function of three variables.
+   285196020571078987
+
+Problem 181: Investigating in how many ways objects of two different colours can be grouped.
+   83735848679360680
+
+Problem 182: RSA encryption
+   399788195976
+
+Problem 183: Maximum product of parts
+   48861552
+
+Problem 184: Triangles containing the origin.
+   1725323624056
+
+Problem 185: Number Mind
+   4640261571849533
+
+Problem 186: Connectedness of a network.
+   2325629
+
+Problem 187: Semiprimes
+   17427258
+
+Problem 188: The hyperexponentiation of a number
+   95962097
+
+Problem 189: Tri-colouring a triangular grid
+   10834893628237824
+
+Problem 190: Maximising a weighted product
+
+   371048281
+
+Problem 191: Prize Strings
+   1918080160
+
+Problem 192: Best Approximations
+   57060635927998347
+
+Problem 193: Squarefree Numbers
+   684465067343069
+
+Problem 194: Coloured Configurations
+   61190912
+
+Problem 195: Inscribed circles of triangles with one angle of 60 degrees
+   75085391
+
+Problem 196: Prime triplets
+   322303240771079935
+
+Problem 197: Investigating the behaviour of a recursively defined sequence
+   1.710637717
+
+Problem 198: Ambiguous Numbers
+   52374425
+
+Problem 199: Iterative Circle Packing
+   0.00396087
+
+Problem 200: Find the 200th prime-proof sqube containing the contiguous sub-string "200"
+   229161792008
+
+Problem 201: Subsets with a unique sum
+   115039000
+
+Problem 202: Laserbeam
+   1209002624
+
+Problem 203: Squarefree Binomial Coefficients
+   34029210557338
+
+Problem 204: Generalised Hamming Numbers
+   2944730
+
+Problem 205: Dice Game
+   0.5731441
+
+Problem 206: Concealed Square
+   1389019170
+
+Problem 207: Integer partition equations
+   44043947822
+
+Problem 208: Robot Walks
+   331951449665644800
+
+Problem 209: Circular Logic
+   15964587728784
+
+Problem 210: Obtuse Angled Triangles
+   1598174770174689458
+
+Problem 211: Divisor Square Sum
+   1922364685
+
+Problem 212: Combined Volume of Cuboids
+   328968937309
+
+Problem 213: Flea Circus
+   330.721154
+
+Problem 214: Totient Chains
+   1677366278943
+
+Problem 215: Crack-free Walls
+   806844323190414
+
+Problem 216: Investigating the primality of numbers of the form 2
+   5437849
+
+Problem 217: Balanced Numbers
+   6273134
+
+Problem 218: Perfect right-angled triangles
+   0
+
+Problem 219: Skew-cost coding
+   64564225042
+
+Problem 220: Heighway Dragon
+   139776,963904
+
+Problem 221: Alexandrian Integers
+   1884161251122450
+
+Problem 222: Sphere Packing
+   1590933
+
+Problem 223: Almost right-angled triangles I
+   61614848
+
+Problem 224: Almost right-angled triangles II
+   4137330
+
+Problem 225: Tribonacci non-divisors
+   2009
+
+Problem 226: A Scoop of Blancmange
+   0.11316017
+
+Problem 227: The Chase
+   3780.618622
+
+Problem 228: Minkowski Sums
+   86226
+
+Problem 229: Four Representations using Squares
+   11325263
+
+Problem 230: Fibonacci Words
+   850481152593119296
+
+Problem 231: The prime factorisation of binomial coefficients
+   7526965179680
+
+Problem 232: The Race
+   0.83648556
+
+Problem 233: Lattice points on a circle
+   271204031455541309
+
+Problem 234: Semidivisible numbers
+   1259187438574927161
+
+Problem 235: An Arithmetic Geometric sequence
+   1.002322108633
+
+Problem 236: Luxury Hampers
+   123/59
+
+Problem 237: Tours on a 4 x n playing board
+   15836928
+
+Problem 238: Infinite string tour
+   9922545104535661
+
+Problem 239: Twenty-two Foolish Primes
+   0.001887854841
+
+Problem 240: Top Dice
+   7448717393364181966
+
+Problem 241: Perfection Quotients
+   482316491800641154
+
+Problem 242: Odd Triplets
+   997104142249036713
+
+Problem 243: Resilience
+   892371480
+
+Problem 244: Sliders
+   96356848
+
+Problem 245: Coresilience
+   288084712410001
+
+Problem 246: Tangents to an ellipse
+   810834388
+
+Problem 247: Squares under a hyperbola
+   782252
+
+Problem 248: Numbers for which Euler’s totient function equals 13!
+   23507044290
+
+Problem 249: Prime Subset Sums
+   9275262564250418
+
+Problem 250: 250250
+   1425480602091519
+
+Problem 251: Cardano Triplets
+   18946051
+
+Problem 252: Convex Holes
+   104924.0
+
+Problem 253: Tidying up
+   11.492847
+
+Problem 254: Sums of Digit Factorials
+   8184523820510
+
+Problem 255: Rounded Square Roots
+   4.4474011180
+
+Problem 256: Tatami-Free Rooms
+   85765680
+
+Problem 257: Angular Bisectors
+   139012411
+
+Problem 258: A lagged Fibonacci sequence
+   12747994
+
+Problem 259: Reachable Numbers
+   20101196798
+
+Problem 260: Stone Game
+   167542057
+
+Problem 261: Pivotal Square Sums
+   238890850232021
+
+Problem 262: Mountain Range.
+   2531.205
+
+Problem 263: An engineers' dream come true
+   2039506520
+
+Problem 264: Triangle Centres
+   2816417.1055
+
+Problem 265: Binary Circles
+   209110240768
+
+Problem 266: Pseudo Square Root
+   1096883702440585
+
+Problem 267: Billionaire
+   0.999992836187
+
+Problem 268: Counting numbers with at least four distinct prime factors less than 100
+   785478606870985
+
+Problem 269: Polynomials with at least one integer root
+   1311109198529286
+
+Problem 270: Cutting Squares
+   82282080
+
+Problem 271: Modular Cubes, part 1
+   4617456485273129588
+
+Problem 272: Modular Cubes, part 2
+   8495585919506151122
+
+Problem 273: Sum of Squares
+   2032447591196869022
+
+Problem 274: Divisibility Multipliers
+   1601912348822
+
+Problem 275: Balanced Sculptures
+   15030564
+
+Problem 276: Primitive Triangles
+   5777137137739632912
+
+Problem 277: A Modified Collatz sequence
+   1125977393124310
+
+Problem 278: Linear Combinations of Semiprimes
+   1228215747273908452
+
+Problem 279: Triangles with integral sides and an integral angle 
+   416577688
+
+Problem 280: Ant and seeds
+   430.088247
+
+Problem 281: Pizza Toppings
+   1485776387445623
+
+Problem 282: The Ackermann function
+   1098988351
+
+Problem 283: Integer sided triangles for which the  area/perimeter ratio is integral.
+   28038042525570324
+
+Problem 284: Steady Squares
+   5a411d7b
+
+Problem 285: Pythagorean odds
+   157055.80999
+
+Problem 286: Scoring probabilities
+   52.6494571953
+
+Problem 287: Quadtree encoding (a simple compression algorithm)
+   313135496
+
+Problem 288: An enormous factorial
+   605857431263981935
+
+Problem 289: Eulerian Cycles
+   6567944538
+
+Problem 290: Digital Signature
+   20444710234716473
+
+Problem 291: Panaitopol Primes
+   4037526
+
+Problem 292: Pythagorean Polygons
+   3600060866
+
+Problem 293: Pseudo-Fortunate Numbers
+   2209
+
+Problem 294: Sum of digits - experience #23
+   789184709
+
+Problem 295: Lenticular holes
+   4884650818
+
+Problem 296: Angular Bisector and Tangent
+   1137208419
+
+Problem 297: Zeckendorf Representation
+   2252639041804718029
+
+Problem 298: Selective Amnesia
+   1.76882294
+
+Problem 299: Three similar triangles
+   549936643
+
+Problem 300: Protein folding
+   8.0540771484375
+
+Problem 301: Nim
+   2178309
+
+Problem 302: Strong Achilles Numbers
+   1170060
+
+Problem 303: Multiples with small digits
+   1111981904675169
+
+Problem 304: Primonacci
+   283988410192
+
+Problem 305: Reflexive Position
+   18174995535140
+
+Problem 306: Paper-strip Game
+   852938
+
+Problem 307: Chip Defects
+   0.7311720251
+
+Problem 308: An amazing Prime-generating Automaton
+   1539669807660924
+
+Problem 309: Integer Ladders
+   210139
+
+Problem 310: Nim Square
+   2586528661783
+
+Problem 311: Biclinic Integral Quadrilaterals
+   2466018557
+
+Problem 312: Cyclic paths on Sierpiński graphs
+
+   324681947
+
+Problem 313: Sliding game
+   2057774861813004
+
+Problem 314: The Mouse on the Moon
+   132.52756426
+
+Problem 315: Digital root clocks
+   13625242
+
+Problem 316: Numbers in decimal expansions
+   542934735751917735
+
+Problem 317: Firecracker
+   1856532.8455
+
+Problem 318: 2011 nines
+   709313889
+
+Problem 319: Bounded Sequences
+   268457129
+
+Problem 320: Factorials divisible by a huge integer
+   278157919195482643
+
+Problem 321: Swapping Counters
+   2470433131948040
+
+Problem 322: Binomial coefficients divisible by 10
+   999998760323313995
+
+Problem 323: Bitwise-OR operations on random integers
+   6.3551758451
+
+Problem 324: Building a tower
+   96972774
+
+Problem 325: Stone Game II
+   54672965
+
+Problem 326: Modulo Summations
+   1966666166408794329
+
+Problem 327: Rooms of Doom
+   34315549139516
+
+Problem 328: Lowest-cost Search
+   260511850222
+
+Problem 329: Prime Frog
+   199740353/29386561536000
+
+Problem 330: Euler's Number
+   15955822
+
+Problem 331: Cross flips
+   467178235146843549
+
+Problem 332: Spherical triangles
+   2717.751525
+
+Problem 333: Special partitions
+   3053105
+
+Problem 334: Spilling the beans
+   150320021261690835
+
+Problem 335: Gathering the beans
+   5032316
+
+Problem 336: Maximix Arrangements
+   CAGBIHEFJDK
+
+Problem 337: Totient Stairstep Sequences
+   85068035
+
+Problem 338: Cutting Rectangular Grid Paper
+   15614292
+
+Problem 339: Peredur fab Efrawg
+   19823.542204
+
+Problem 340: Crazy Function
+   291504964
+
+Problem 341: Golomb's self-describing sequence
+   56098610614277014
+
+Problem 342: The totient of a square is a cube
+   5943040885644
+
+Problem 343: Fractional Sequences
+   269533451410884183
+
+Problem 344: Silver dollar game
+   65579304332
+
+Problem 345: Matrix Sum
+   13938
+
+Problem 346: Strong Repunits
+   336108797689259276
+
+Problem 347: Largest integer divisible by two primes
+   11109800204052
+
+Problem 348: Sum of a square and a cube
+   1004195061
+
+Problem 349: Langton's ant
+   115384615384614952
+
+Problem 350: Constraining the least greatest and the greatest least
+   84664213
+
+Problem 351: Hexagonal orchards
+   11762187201804552
+
+Problem 352: Blood tests
+   378563.260589
+
+Problem 353: Risky moon
+   1.2759860331
+
+Problem 354: Distances in a bee's honeycomb 
+   58065134
+
+Problem 355: Maximal coprime subset
+   1726545007
+
+Problem 356: Largest roots of cubic polynomials
+   28010159
+
+Problem 357: Prime generating integers
+   1739023853137
+
+Problem 358: Cyclic numbers
+   3284144505
+
+Problem 359: Hilbert's New Hotel
+   40632119
+
+Problem 360: Scary Sphere
+   878825614395267072
+
+Problem 361: Subsequence of Thue-Morse sequence
+   178476944
+
+Problem 362: Squarefree factors
+   457895958010
+
+Problem 363: Bézier Curves
+   0.0000372091
+
+Problem 364: Comfortable distance
+   44855254
+
+Problem 365: A huge binomial coefficient
+   162619462356610313
+
+Problem 366: Stone Game III
+   88351299
+
+Problem 367: bozo sort
+   48271207
+
+Problem 368: A Kempner-like series
+   253.6135092068
+
+Problem 369: Badugi
+
+   862400558448
+
+Problem 370: Geometric triangles
+
+   41791929448408
+
+Problem 371: Licence plates
+   40.66368097
+
+Problem 372: Pencils of rays
+   301450082318807027
+
+Problem 373: Circumscribed Circles
+   727227472448913
+
+Problem 374: Maximum Integer Partition Product
+
+   334420941
+
+Problem 375: Minimum of subsequences
+   7435327983715286168
+
+Problem 376: Nontransitive sets of dice
+   973059630185670
+
+Problem 377: Sum of digits, experience 13
+   732385277
+
+Problem 378: Triangle Triples
+   147534623725724718
+
+Problem 379: Least common multiple count
+   132314136838185
+
+Problem 380: Amazing Mazes!
+   6.3202e25093
+
+Problem 381: (prime-k) factorial
+   139602943319822
+
+Problem 382: Generating polygons
+   697003956
+
+Problem 383: Divisibility comparison between factorials
+   22173624649806
+
+Problem 384: Rudin-Shapiro sequence
+   3354706415856332783
+
+Problem 385: Ellipses inside triangles
+   3776957309612153700
+
+Problem 386: Maximum length of an antichain
+   528755790
+
+Problem 387: Harshad Numbers
+   696067597313468
+
+Problem 388: Distinct Lines
+   831907372805129931
+
+Problem 389: Platonic Dice
+   2406376.3623
+
+Problem 390: Triangles with non rational sides and integral area
+   2919133642971
+
+Problem 391: Hopping Game
+   61029882288
+
+Problem 392: Enmeshed unit circle
+   3.1486734435
+
+Problem 393: Migrating ants
+   112398351350823112
+
+Problem 394: Eating pie
+   3.2370342194
+
+Problem 395: Pythagorean tree
+   28.2453753155
+
+Problem 396: Weak Goodstein sequence
+   173214653
+
+Problem 397: Triangle on parabola
+   141630459461893728
+
+Problem 398: Cutting rope
+   2010.59096
+
+Problem 399: Squarefree Fibonacci Numbers
+   1508395636674243,6.5e27330467
+
+Problem 400: Fibonacci tree game
+   438505383468410633
+
+Problem 401: Sum of squares of divisors
+   281632621
+
+Problem 402: Integer-valued polynomials
+   356019862
+
+Problem 403: Lattice points enclosed by parabola and line
+   18224771
+
+Problem 404: Crisscross Ellipses
+   1199215615081353
+
+Problem 405: A rectangular tiling
+   237696125
+
+Problem 406: Guessing Game
+   36813.12757207
+
+Problem 407: Idempotents
+   39782849136421
+
+Problem 408: Admissible paths through a grid
+   299742733
+
+Problem 409: Nim Extreme
+   253223948
+
+Problem 410: Circle and tangent line
+   799999783589946560
+
+Problem 411: Uphill paths
+   9936352
+
+Problem 412: Gnomon numbering
+   38788800
+
+Problem 413: One-child Numbers
+   3079418648040719
+
+Problem 414: Kaprekar constant
+   552506775824935461
+
+Problem 415: Titanic sets
+   55859742
+
+Problem 416: A frog's trip
+   898082747
+
+Problem 417: Reciprocal cycles II
+   446572970925740
+
+Problem 418: Factorisation triples
+   1177163565297340320
+
+Problem 419: Look and say sequence
+   998567458,1046245404,43363922
+
+Problem 420: 2x2 positive integer matrix
+   145159332
+
+Problem 421: Prime factors of 
+   n/a
+
+Problem 422: Sequence of points on a hyperbola
+   n/a
+
+Problem 423: Consecutive die throws
+   n/a
+
+Problem 424: Kakuro
+   1059760019628
+
+Problem 425: Prime connection
+   46479497324
+
+Problem 426: Box-ball system
+   n/a
+
+Problem 427: n-sequences
+   n/a
+
+Problem 428: Necklace of circles
+   n/a
+
+Problem 429: Sum of squares of unitary divisors
+   98792821
+
+Problem 430: Range flips
+   5000624921.38
+
+Problem 431: Square Space Silo
+   n/a
+
+Problem 432: Totient sum
+   n/a
+
+Problem 433: Steps in Euclid's algorithm
+   326624372659664
+
+Problem 434: Rigid graphs
+   863253606
+
+Problem 435: Polynomials of Fibonacci numbers
+   252541322550
+
+Problem 436: Unfair wager
+   0.5276662759
+
+Problem 437: Fibonacci primitive roots
+   74204709657207
+
+Problem 438: Integer part of polynomial equation's solutions
+   n/a
+
